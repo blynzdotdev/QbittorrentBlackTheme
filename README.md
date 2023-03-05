@@ -13,5 +13,5 @@ elérési út:
 ## Start QBT
 ### Settings > behaviour > Custum UI > kis mappa jel (tallózás)
 bele raktam azt a témát is amiből ezt csináltam (ICEBERG) de azt is kipróbálhatod.
-de amit csináltam az a "ayoDark"
+de amit csináltam az a "ayuDark"
 ![image](https://media.discordapp.net/attachments/938436612075978813/1081893065670807633/image.png?width=845&height=347)
